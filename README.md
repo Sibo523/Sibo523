@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Roi and I am 19. 
+I am just learning whatever
 <!--
 **Sibo523/Sibo523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
