@@ -1,6 +1,4 @@
 ### Hi there 👋
-My name is Roi and I am 19. 
-I am just learning whatever
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sibo523)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sibo523&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
