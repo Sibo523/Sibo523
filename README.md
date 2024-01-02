@@ -2,6 +2,8 @@
 My name is Roi and I am 19. 
 I am just learning whatever
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sibo523)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibo523&theme=tokyonight)
+
 <!--
 **Sibo523/Sibo523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
