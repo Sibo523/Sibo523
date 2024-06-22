@@ -1,4 +1,5 @@
-# Hi there, I'm Roi Sibony 👋 
+# Hi there, I'm Roi Sibony 👋 ![Profile Views](https://komarev.com/ghpvc/?username=Sibo523&style=flat-square&color=brightgreen)
+
 
 
 |                                                                                    ⚡My Stats                                                                                      |                                                                                                    ⚡ Languages                                                                                                    |
@@ -8,4 +9,3 @@
 ## LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Sibo532?&theme=dark&hide=ranking&ext=skills)](https://leetcode.com/Sibo532/&cache_seconds=180)
-![Profile views](https://gpvc.arturio.dev/Sibo523)
