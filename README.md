@@ -6,5 +6,5 @@
 
 ## LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sibo532?&theme=unicorn&hide=ranking&ext=skills)](https://leetcode.com/Sibo532/&cache_seconds=180)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sibo532?&theme=dark&hide=ranking&ext=skills)](https://leetcode.com/Sibo532/&cache_seconds=180)
 
