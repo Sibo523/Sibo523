@@ -7,7 +7,7 @@
 
 |                                                                                      Stats                                                                                       |                                                                                              Languages                                                                                              |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibo523&show_icons=true&rank_icon=github&theme=dracula&icon_color=ff79c6&cache_seconds=180) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibo523&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=450&theme=dracula&t=${new Date().getTime()})](https://github.com/anuraghazra/github-readme-stats) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibo523&show_icons=true&rank_icon=github&theme=dracula&icon_color=ff79c6&cache_seconds=180) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibo523&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=450&theme=dracula&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
