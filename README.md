@@ -10,9 +10,15 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sibo523&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibo523&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sibo523&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibo523&layout=compact&langs_count=8&theme=dracula&hide_border=true&exclude_repo=jupyter-notebook" alt="Top Languages"/>
 </p>
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibo523&layout=default&langs_count=10&theme=dracula&hide_border=true)
 
 ---
 
