@@ -5,15 +5,19 @@
 
 ## ⚡ My GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sibo523&show_icons=true&rank_icon=github&theme=dracula&icon_color=ff79c6&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibo523&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Sibo523&theme=dracula" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sibo523&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibo523&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🏆 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sibo532?theme=dark&hide=ranking&ext=skills)](https://leetcode.com/Sibo532/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sibo532?theme=dark&ext=skills)](https://leetcode.com/Sibo532/)
 
 ---
 
